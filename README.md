@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Rafael Jardim, desenvolvedor Front-End!
-<div align="center">
+<div>
   <a href="https://github.com/rafaelmjardim">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelmjardim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmjardim&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
